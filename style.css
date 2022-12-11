@@ -27,12 +27,13 @@ header .logo {
 
 main {
     padding: 20px;
+    font-size: 2em;
 }
 
 .nametag{
     background: red;
     padding-bottom: 10px;
-    width: 400px;
+    width: 800px;
     text-align: center;
     border: 5px solid black;
     border-radius: 10%;
@@ -45,6 +46,8 @@ main {
     background: white;
     color: black;
     font-family: 'Rock Salt', cursive;
+    padding: 10px;
+    font-size: 2em;
 
 }
 .greeting{
